@@ -1,16 +1,22 @@
 name,companies_handled_count,work_skipped,companies_handled
-Ali Asgar Maheshwarwala,1,0,flipkart
-Vatsal Dhyani,0,1,
-Abhimanyu Sharma,0,1,
-Riddhima Goyal,3,0,"netflix, netflix, netflix"
-Sneha Chandna,1,0,samsung
-K.ShashiPreethamReddy,1,0,arista2
+Simroop Singh,0,0,
+Anand Kishore,0,0,
+Lavish Singal,0,0,
+Manjeet,0,0,
+Saurav Nehra,0,0,
+Ali Asgar Maheshwarwala,0,0,
+Vatsal Dhyani,0,0,
+Abhimanyu Sharma,0,0,
+Riddhima Goyal,0,0,
+Sneha Chandna,0,0,
+K.ShashiPreethamReddy,0,0,
 Pranshu Sharma,0,0,
 Hardeep Gupta,0,0,
 Siddhanth P Vashist,0,0,
 Mohit Kumar,0,0,
 Ayush Gupta,0,0,
 Shubham Ashwani,0,0,
+Dev Patel,0,0,
 Sarthak Goel,0,0,
 Vershita Yadav,0,0,
 Utkarsh Aggarwal,0,0,
@@ -46,9 +52,3 @@ Aarushi Garg,0,0,
 Shivam Jaiswal,0,0,
 Pujan Purohit,0,0,
 Manitha Rahul Sree,0,0,
-Simroop Singh,1,0,Amazon
-Manjeet,1,0,Google
-Dev Patel,1,0,Arista
-Anand Kishore,1,1,HCL
-Saurav Nehra,1,0,planet
-Lavish Singal,1,1,amazon2
