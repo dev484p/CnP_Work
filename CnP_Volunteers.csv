@@ -1,7 +1,6 @@
 name,companies_handled_count,work_skipped,companies_handled
-Lavish Singal,0,1,
-Manjeet,1,1,xyz
-Saurav Nehra,0,1,
+Lavish Singal,0,2,
+Manjeet,1,2,xyz
 Ali Asgar Maheshwarwala,0,1,
 Vatsal Dhyani,0,1,
 Abhimanyu Sharma,1,0,arista2
@@ -52,3 +51,4 @@ Pujan Purohit,0,0,
 Manitha Rahul Sree,0,0,
 Simroop Singh,4,0,"amazon, abc, company3, walmart"
 Anand Kishore,1,1,microsoft
+Saurav Nehra,1,1,Google
