@@ -1,7 +1,6 @@
 name,companies_handled_count,work_skipped,companies_handled
-Anand Kishore,0,0,
-Lavish Singal,0,0,
-Manjeet,0,0,
+Anand Kishore,0,1,
+Lavish Singal,0,1,
 Saurav Nehra,0,0,
 Ali Asgar Maheshwarwala,0,0,
 Vatsal Dhyani,0,0,
@@ -52,3 +51,4 @@ Shivam Jaiswal,0,0,
 Pujan Purohit,0,0,
 Manitha Rahul Sree,0,0,
 Simroop Singh,1,0,Google
+Manjeet,1,0,Microsoft
