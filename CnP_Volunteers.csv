@@ -1,7 +1,6 @@
 name,companies_handled_count,work_skipped,companies_handled
-Lavish Singal,0,1,
-Saurav Nehra,0,0,
-Ali Asgar Maheshwarwala,0,0,
+Lavish Singal,0,2,
+Saurav Nehra,0,1,
 Vatsal Dhyani,0,0,
 Abhimanyu Sharma,0,0,
 Riddhima Goyal,0,0,
@@ -52,3 +51,4 @@ Manitha Rahul Sree,0,0,
 Manjeet,1,0,Microsoft
 Simroop Singh,2,0,"Google, Adobe"
 Anand Kishore,1,1,Samsung
+Ali Asgar Maheshwarwala,1,0,Arista
