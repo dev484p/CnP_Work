@@ -1,18 +1,21 @@
 name,companies_handled_count,work_skipped,companies_handled
-Lavish Singal,0,2,
-Manjeet,1,2,xyz
-Ali Asgar Maheshwarwala,0,1,
-Vatsal Dhyani,0,1,
-Abhimanyu Sharma,1,0,arista2
-Riddhima Goyal,1,0,salseforce
-Sneha Chandna,0,1,
-K.ShashiPreethamReddy,1,0,flipkart
-Pranshu Sharma,1,0,samsung
+Simroop Singh,0,0,
+Anand Kishore,0,0,
+Lavish Singal,0,0,
+Manjeet,0,0,
+Saurav Nehra,0,0,
+Ali Asgar Maheshwarwala,0,0,
+Vatsal Dhyani,0,0,
+Abhimanyu Sharma,0,0,
+Riddhima Goyal,0,0,
+Sneha Chandna,0,0,
+K.ShashiPreethamReddy,0,0,
+Pranshu Sharma,0,0,
 Hardeep Gupta,0,0,
 Siddhanth P Vashist,0,0,
 Mohit Kumar,0,0,
 Ayush Gupta,0,0,
-Shubham Ashwani,1,0,adobee
+Shubham Ashwani,0,0,
 Dev Patel,0,0,
 Sarthak Goel,0,0,
 Vershita Yadav,0,0,
@@ -49,6 +52,3 @@ Aarushi Garg,0,0,
 Shivam Jaiswal,0,0,
 Pujan Purohit,0,0,
 Manitha Rahul Sree,0,0,
-Simroop Singh,4,0,"amazon, abc, company3, walmart"
-Anand Kishore,1,1,microsoft
-Saurav Nehra,1,1,Google
